@@ -1,10 +1,10 @@
 # Vector-Class
 
 
-Have you ever thought how <b>vector</b> works internally?
+Have you ever thought how **Vector** works internally?
 
 Vectors are sequence containers representing arrays 
-that can change their size during "runtime".
+that can change their size during **"runtime**".
 
 Here,Runtime word is more important because changing size at runtime
 is important functionality of vector.
@@ -23,7 +23,7 @@ You can run below code and can use for variety of datatypes.
 
 Stay Curious! Stay Happy!
 
-Check main.cpp file for full source code....
+Check **main.cpp** file for full source code....
 
 #Technology#Creativity#programminglife #coderlife #developerlife #codinglife 
 #computerscience #codelife #code #science #softwaredevelopment
