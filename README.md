@@ -1,7 +1,7 @@
 # Vector-Class
 
 
-Have you ever thought how vector works internally?
+Have you ever thought how # vector works internally?
 
 Vectors are sequence containers representing arrays 
 that can change their size during "runtime".
